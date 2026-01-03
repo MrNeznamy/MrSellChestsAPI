@@ -11,7 +11,7 @@
 <dependency>
     <groupId>com.github.MrNeznamy</groupId>
     <artifactId>MrSellChestsAPI</artifactId>
-    <version></version>
+    <version>21c9fe1105</version>
     <scope>provided</scope>
 </dependency>
 ```
